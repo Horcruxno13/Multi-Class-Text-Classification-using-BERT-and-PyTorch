@@ -1,6 +1,8 @@
 # Multi Class Text Classification using BERT and PyTorch
 ## "It is the effort that counts?"
 
+The complete report can be read here: https://docs.google.com/document/d/11egycd_80bdkuq-K6W3gFSMnfNVl9HmP8GSGOfFUxmE/edit?usp=sharing 
+
 ### Introduction
 After writing hundreds of lines of code, going through a ton of documentation and sample codes, reading research papers to get to the depth of the idea, I was unable to train the model with a high enough accuracy. During my attempt to train a BERT model, I encountered challenges that led to low accuracy. Despite the suboptimal outcome, I invested a significant amount of effort to overcome these obstacles and make the model work. As a result of this process, I gained valuable knowledge and insight into the workings of all the steps involved in training a neural network and other techniques in NLP. Although the final accuracy of the model may not have met my initial expectations, the effort expended and knowledge acquired in the process of attempting to improve it was valuable. I consider this experience to be a positive one, as it served to expand my understanding of NLP and the challenges involved in working on it.
 
